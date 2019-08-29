@@ -51,7 +51,7 @@ VPS作为虚拟服务器，也是要依托于实体的服务器的。所以这�
 
 **b/选系统和套餐**
 
-这里选的系统是CentOS7 64位的，建议大家选Linux系统，比如Ubuntu，因为后面要讲解到如何安装流量转发软件（ss）。
+这里默认选的系统是CentOS7 64位的，建议大家选Linux系统，比如Ubuntu，因为后面要讲解到如何安装流量转发软件（Shadowsocks）。
 套餐配置其实选最低配，5美金一个月的，流量1T，个人用怎么都够了！有些服务器最低还有2.5美金的，自己选也行。
 ![选服务器系统和套餐配置](https://upload-images.jianshu.io/upload_images/1985682-592913651b4d3e7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
